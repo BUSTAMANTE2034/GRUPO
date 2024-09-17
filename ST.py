@@ -8,4 +8,6 @@ match z:
     #Completar los casos para suma y multiplicación
     case S:
         print("Suma: ", a+b)
+    case M:
+        
     
