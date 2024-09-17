@@ -9,5 +9,5 @@ match z:
     case S:
         print("Suma: ", a+b)
     case M:
-        
+        print("Multiplicación: ",a*b)
     
